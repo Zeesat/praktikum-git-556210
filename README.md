@@ -1,1 +1,1 @@
-# praktikum-git-556210
+Repository Praktikum PPW A1
